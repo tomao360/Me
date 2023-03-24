@@ -1,12 +1,14 @@
-## Hi 👋, I'm Tamara Osipov
-<img src="https://user-images.githubusercontent.com/106015870/227613720-ce6880dc-c44e-4edb-958a-21b4b2ea0d3c.jpg" width="250">
+<h1 align="center">Hi 👋, I'm Tamara Osipov</h1>
+<p align="center">
+<img src="https://user-images.githubusercontent.com/106015870/227613720-ce6880dc-c44e-4edb-958a-21b4b2ea0d3c.jpg" width="300">
+</p>
 
-* 💻 I am a Full-Stack Developer
-*  💯 Passionate about coding, and solving problems
-* 📩 How to reach me: tomao360@gmail.com
+  * 💻 I am a Full-Stack Developer
+  *  💯 Passionate about coding, and solving problems
+  * 📩 How to reach me: tomao360@gmail.com
 
 
-## 🌐 Socials:
+## 🌐 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/tamara-osipov-b37b04254/) 
 
 # 💻 Tech Stack:
