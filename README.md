@@ -1,4 +1,6 @@
 ## Hi 👋, I'm Tamara Osipov
+<img src="https://user-images.githubusercontent.com/106015870/227608828-22dbdecd-02df-400f-ac22-4ad9b1368f1d.jpg" width="500">
+
 * 💻 I am a Full-Stack Developer
 *  💯 Passionate about coding, and solving problems
 * 📩 How to reach me: tomao360@gmail.com
