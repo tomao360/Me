@@ -1,5 +1,5 @@
 ## Hi 👋, I'm Tamara Osipov
-<img src="https://user-images.githubusercontent.com/106015870/227608828-22dbdecd-02df-400f-ac22-4ad9b1368f1d.jpg" width="500">
+<img src="https://user-images.githubusercontent.com/106015870/227613720-ce6880dc-c44e-4edb-958a-21b4b2ea0d3c.jpg" width="250">
 
 * 💻 I am a Full-Stack Developer
 *  💯 Passionate about coding, and solving problems
